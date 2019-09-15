@@ -6,8 +6,8 @@ BOJ
 
 * * *
 Codeup
-
-#DFS / BFS
+-------------
+###DFS / BFS  
 2610 - 그림판 채우기 (https://codeup.kr/problem.php?id=2610)  
 3500 - 지뢰찾기2 (https://codeup.kr/problem.php?id=3500)  
 4023 - 오목 (https://codeup.kr/problem.php?id=4023)  
